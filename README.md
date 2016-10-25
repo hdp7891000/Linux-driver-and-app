@@ -6,6 +6,7 @@ The main functions:
 - Display the value with application.
 
 ## TODO List   
+- [x] 创建项目。   
 - [ ] 选择一个开发板。   
 - [ ] 找一个一般的驱动程序。   
 - [ ] 移植到linux里面。   
