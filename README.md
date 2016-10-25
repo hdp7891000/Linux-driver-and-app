@@ -5,6 +5,6 @@ The main functions:
 - Detect **Temperature** and **Humidity** with DHT11 sensor.   
 - Display the value with application.
 
-## Team
+## ::tada:: Team ::tada::    
 - David Han
 - Ian Hom
